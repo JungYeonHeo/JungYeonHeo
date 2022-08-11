@@ -1,6 +1,5 @@
 <div align="center">
    <img src="https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=100&section=header&text=Heo%20Jung%20Yeon&fontSize=30&animation=twinkling" />
-   </br>
    
    <a href="https://golgol22.github.io"><img src="https://img.shields.io/badge/blog-20C997?style=flat&logo=git&logoColor=white"/></a> 
    <a href= "mailto:heojungyeon.97@gmail.com" ><img src="https://img.shields.io/badge/gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
@@ -8,9 +7,10 @@
   ![golgol22's GitHub stats](https://github-readme-stats.vercel.app/api?username=golgol22&show_icons=true&theme=cobalt)
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=golgol22&theme=cobalt&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=6)
+
+   ## ✏️ Tech Stack ✏️
   
-  <p style="font-weight:900">✏️ Tech Stack ✏️</p>
-  <p align="center">
+   <p align="center">
     <img src="https://img.shields.io/badge/Javscript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white"/>
@@ -26,5 +26,6 @@
     <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white"/>
     <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat&logo=Amazon RDS&logoColor=white"/>
     <img src="https://img.shields.io/badge/Amazon ElastiCache-1c5a9a?style=flat&logo=redis&logoColor=white"/></br>
-  </p>
+   </p>
 </div>
+  

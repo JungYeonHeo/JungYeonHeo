@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Javscript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white"/>
-    </br>
+    <br>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white"/>
     <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/>
@@ -25,7 +25,6 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white"/>
     <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat&logo=Amazon RDS&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Amazon ElastiCache-1c5a9a?style=flat&logo=redis&logoColor=white"/></br>
+    <img src="https://img.shields.io/badge/Amazon ElastiCache-1c5a9a?style=flat&logo=redis&logoColor=white"/>
    </p>
 </div>
-  

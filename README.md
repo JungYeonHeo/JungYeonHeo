@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=100&section=header&text=Heo%20Jung%20Yeon&fontSize=30&animation=twinkling" />
+   <img src="https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=100&section=header&text=golgol22&fontSize=30&animation=twinkling" />
    
    <a href="https://golgol22.github.io"><img src="https://img.shields.io/badge/blog-20C997?style=flat&logo=git&logoColor=white"/></a> 
    <a href= "mailto:heojungyeon.97@gmail.com" ><img src="https://img.shields.io/badge/gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>

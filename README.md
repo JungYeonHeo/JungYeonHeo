@@ -11,21 +11,21 @@
    ## ✏️ Tech Stack ✏️
   
    <p align="center">
-    <img src="https://img.shields.io/badge/python-F7DF1E?style=flat&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Flask-F7DF1E?style=flat&logo=Flask&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Java-F7DF1E?style=flat&logo=Java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Spring-F7DF1E?style=flat&logo=Spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-346B97?style=flat&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-EF983A?style=flat&logo=Java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring Framework-68AE3C?style=flat&logo=Spring&logoColor=white"/>
     <br>
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white"/>
     <img src="https://img.shields.io/badge/Nestjs-D9214B?style=flat&logo=Nestjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/REST API-000000?style=flat&logo=Restful&logoColor=white"/>
+    <img src="https://img.shields.io/badge/REST API-3B50C6?style=flat&logo=REST&logoColor=white"/>
     <img src="https://img.shields.io/badge/GraphQL-DE3DA5?style=flat&logo=GraphQL&logoColor=white"/>
     <br>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white"/>
-    <img src="https://img.shields.io/badge/TypeORM-52B0E7?style=flat&logo=TypeOrm&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TypeORM-F70A02?style=flat&logo=Type&logoColor=white"/>
     <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/>
     <img src="https://img.shields.io/badge/MongoDB-419742?style=flat&logo=MongoDB&logoColor=white"/>
     <br>   

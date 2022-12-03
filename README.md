@@ -8,36 +8,4 @@
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=golgol22&theme=cobalt&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=6)
 
-   ## ✏️ Tech Stack ✏️
-  
-   <p align="center">
-    <img src="https://img.shields.io/badge/Python-346B97?style=flat&logo=Python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Java-EF983A?style=flat&logo=Java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Spring Framework-68AE3C?style=flat&logo=Spring&logoColor=white"/>
-    <br>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Typescript-2F74C0?style=flat&logo=Javascript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Nestjs-D9214B?style=flat&logo=Nestjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/REST API-3B50C6?style=flat&logo=REST&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GraphQL-DE3DA5?style=flat&logo=GraphQL&logoColor=white"/>
-    <br>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white"/>
-    <img src="https://img.shields.io/badge/TypeORM-F70A02?style=flat&logo=TypeORM&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MongoDB-419742?style=flat&logo=MongoDB&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Elasticsearch-E7B833?style=flat&logo=Elasticsearch&logoColor=white"/>
-    <br>   
-    <img src ="https://img.shields.io/badge/linux-2d2d2d?style=flat&logo=linux&logoColor=white"/>
-    <img src ="https://img.shields.io/badge/Nginx-009639?style=flat&logo=Nginx&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat&logo=Amazon RDS&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Amazon ElastiCache-1c5a9a?style=flat&logo=redis&logoColor=white"/>
-   </p>
 </div>

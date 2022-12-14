@@ -6,6 +6,6 @@
  
   ![golgol22's GitHub stats](https://github-readme-stats.vercel.app/api?username=golgol22&show_icons=true&theme=cobalt)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=golgol22&theme=cobalt&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=6)
+  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=golgol22&theme=cobalt&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=6)-->
 
 </div>
